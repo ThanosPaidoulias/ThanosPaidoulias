@@ -82,15 +82,6 @@ Statistical analysis of football penalty kicks: gender differences, Bayesian pen
 
 ---
 
-## 🏅 Certifications
-
-- 🏟️ Certificate in Football Tactical Analysis – Barça Innovation Hub  
-- 📊 Data Scientist with Python – DataCamp  
-- ⚽ The FA Level 1 in Talent Certificate – The Football Association  
-- 📡 Game Analysis & Fitness Reports – InStat Scout System  
-
----
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanos-paidoulias/)
