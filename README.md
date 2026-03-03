@@ -43,6 +43,14 @@
 
 ## 📌 Featured Projects
 
+### ⚽ [SocceRapp – Football Scouting Dashboard](https://thanospaidoulias.shinyapps.io/soccerapp/)
+Interactive R Shiny application for scouting football players, comparing metrics, calculating similarity scores, and identifying top performers. Built on MSc thesis findings.
+`R` `Shiny` `Sports Analytics` `Data Visualization`
+
+### 📊 [EPL Transfers Dashboard (2010–2020)](https://public.tableau.com/app/profile/athanasios.paidoulias/viz/EPL_Transfers_Past_Decade/EPL_TRANSFERS_2010_20)
+Interactive Tableau dashboard capturing a decade of transfer activity in the English Premier League, visualizing spending trends, club comparisons, and market dynamics from 2010 to 2020.
+`Tableau` `Data Visualization` `Sports Analytics` `Football`
+
 ### 🏦 [Bank Customer Churn Prediction](https://github.com/ThanosPaidoulias/bank-customer-churn-prediction)
 Machine learning model to predict customer churn using LightGBM and Logistic Regression. Custom threshold optimization achieving 67% recall.
 `Python` `LightGBM` `Scikit-learn` `Classification`
@@ -62,10 +70,6 @@ Professional implementation of MPT with 4 optimization methods: Equal Weight, Mo
 ### ⚽ [Football Penalty Analysis](https://github.com/ThanosPaidoulias/football-penalty-analysis)
 Statistical analysis of football penalty kicks: gender differences, Bayesian penalty taker rankings (MCMC), and strategic shootout ordering with a Manchester United case study.
 `R` `Bayesian Inference` `Bootstrap` `MCMC` `Sports Analytics`
-
-### ⚽ [SocceRapp – Football Scouting Dashboard](https://thanospaidoulias.shinyapps.io/soccerapp/)
-Interactive R Shiny application for scouting football players, comparing metrics, calculating similarity scores, and identifying top performers. Built on MSc thesis findings.
-`R` `Shiny` `Sports Analytics` `Data Visualization`
 
 ---
 
