@@ -72,7 +72,7 @@ Interactive R Shiny application for scouting football players, comparing metrics
 ## 📚 Publications & Academic Work
 
 - **MSc Thesis** – *Use of event data to predict player performance in soccer* | AUEB | [Link](https://pyxida.aueb.gr/items/a37809bb-4fc4-47d2-88c6-388a23688b11)  
-  Supervisor: Prof. Dimitris Karlis — Player performance prediction using event data, clustering, and forecasting models.
+  Supervisor: Prof. Dimitris Karlis — Player performance prediction using event data, clustering, and forecasting models. | [Link](https://drive.google.com/file/d/198SNJqSs3Xv8mCX-xZ46HC38GBp3VAsB/view?usp=sharing)
 
 - **Bayesian Serie A Analysis** – Prediction and simulation of the 2000–2001 Serie A season using Bayesian models. Accurately predicted final rankings and quantified team strengths.
 
